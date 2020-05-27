@@ -1,4 +1,4 @@
-# Fedurated-Insurance-CRM
+# Federated-Insurance-CRM
 Federated Insurance project on creating new Database system to better their currently used system.
 
 ## The Objective:
